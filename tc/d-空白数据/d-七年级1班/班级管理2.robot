@@ -15,7 +15,7 @@ Variables  cfg.py
 #判断
     tshouldContain  ${onlyclass0}
     ...  &{add_classroom}[name]   &{add_classroom}[nianji]
-    ...  &{class}[invitecode]  &{add_classroom}[limit]  0  &{class}[id]
+    ...  &{class}[invitecode]  &{add_classroom}[limit]  1 &{class}[id]
 
 
 增加班级3-tc000003
